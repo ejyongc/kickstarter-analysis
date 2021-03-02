@@ -16,10 +16,16 @@ The analysis of the kickstarter data was divided into two separate sections:
 2. Outcomes Based Goals (Sheet 2)
     
 ### Analysis of Outcomes Based on Launch Date
-In the first analysis, we pivoted the data to show the three different campaign outcomes (successful, failed, and cancelled) for all Theater Kickstart campaigns against their launch date. Our first challenge when pivoting the table was ensuring the month column was in descending order. When we tried applying the pivot table filters in the
+In the first analysis, we pivoted the data to show the three different campaign outcomes (successful, failed, and cancelled) for all Theater Kickstart campaigns against their launch date. 
 
+*Our first challenge came when pivoting the table by month. First, we had to group the launch date field and then sort it in descending order. When we applied the pivot table filters it wouldn't sort them by month due to the fact that we are working with eight years of data. We ended up having to sort the months manually. 
+
+Once the pivot table data was populated, we inserted a line pivot chart in order to visualize the data in cronological order. From this data we immediately identified a peak in successful theater campaigns during the month of May. 
+
+![image](https://github.com/ejyongc/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+According to the 
 
 ### Challenges and Difficulties Encountered
 
