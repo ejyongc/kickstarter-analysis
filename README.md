@@ -25,9 +25,14 @@ Once the pivot table data was populated, we inserted a line pivot chart in order
 ![image](https://github.com/ejyongc/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-According to the 
+In the second analysis, we segmented the campaing goals into 12 different ranges. We arranged the goals ranges to go from *"less than $1,000" to Greater than $50,000. 
+
+We utilized COUNTIFS formulas to sort the data and determine the number of *successful, failed, and canceled* for each goal range. After that, we calculated the total SUM of all campaings by goal range. 
+
+Finally, we calculated the percentage of *successful, failed, and canceled* campaigns by goal bracket and created a line chart to visualize the Outcome by based goal percentages. 
 
 ### Challenges and Difficulties Encountered
+As mentioned earlier
 
 ## Results
 
