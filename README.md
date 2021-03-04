@@ -32,7 +32,13 @@ We utilized COUNTIFS formulas to sort the data and determine the number of *succ
 Finally, we calculated the percentage of *successful, failed, and canceled* campaigns by goal bracket and created a line chart to visualize the Outcome by based goal percentages. 
 
 ### Challenges and Difficulties Encountered
-As mentioned earlier
+For the second analysis, we segmented the goals into twelve different goal ranges. We applied COUNTIFS formulas to calculate the number of *successsful*, *failed*, and *canceled* outcomes for each goal range. 
+
+The first challenge that we came across in this analysis is that we are analyzing the subcategory "plays" while on the previous analysis we reviewed the parent category "Theaters". This approach could throw the result off since we are ommiting some of the theater sub-categories like "musical" and "spaces".
+
+After calculating the outcomes for each goal range, we ran the function SUM to add the total of projects by goal bracket. With this new data, we calculated the percentage of *successful, failed, and canceled* outcomes for each goal bracket. 
+
+![image](https://github.com/ejyongc/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) 
 
 ## Results
 
