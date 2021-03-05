@@ -50,5 +50,7 @@ After calculating the outcomes for each goal range, we ran the function SUM to a
 From the outcomes based on goals analysis, we can conclude that *play* campaigns with goals between $15,000 and $34,999 are more likely to fail. On the low end, *play* campaigns goals between $1 and $14,999 are mosre likely to be successful. On the hight end, *play* campaign goals ranging from $35,000 and $44,999 are also more likely to be successful. 
 
 - What are some limitations of this dataset?
+One of the limitations of this dataset is the 
 
 - What are some other possible tables and/or graphs that we could create?
+An additional graph could be 
