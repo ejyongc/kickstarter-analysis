@@ -54,7 +54,7 @@ After calculating the outcomes for each goal range, we ran the function SUM to a
 From the outcomes based on goals analysis, we can conclude that *play* campaigns with goals between $15,000 and $34,999 are more likely to fail. On the low end, *play* campaigns goals between $1 and $14,999 are mosre likely to be successful. On the hight end, *play* campaign goals ranging from $35,000 and $44,999 are also more likely to be successful. In this case, depending on the goal size 
 
 #### - What are some limitations of this dataset?
-One of the limitations of this data set could be the fact that we are making conclusions based on isolated situations like the ammount of people 
+Some of the limitations of this dataset could be the external factors that could influence the success of these Kickstart campaigns. (For example economic changes, popular preference shift, etc). 
 
 #### - What are some other possible tables and/or graphs that we could create?
 Since we are analyzing the *Theater* category, it could be helpful to analyse the outcome of their sub-categories. Below is an example of what a bar char could look like. 
