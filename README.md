@@ -51,7 +51,7 @@ After calculating the outcomes for each goal range, we ran the function SUM to a
 2. The second conclusion from the analysis is that although *October* is the only month that has no *canceled* campaigns, there's a high number of *failed* campaigns in relation to the amount of *successful* campaigns during that month. 
     
 #### - What can you conclude about the Outcomes based on Goals?
-From the outcomes based on goals analysis, we can conclude that *play* campaigns with goals between $15,000 and $34,999 are more likely to fail. On the low end, *play* campaigns goals between $1 and $14,999 are mosre likely to be successful. On the high end, *play* campaign goals ranging from $35,000 and $44,999 are also more likely to be successful. In this case, depending on the goal size 
+From the outcomes based on goals analysis, we can conclude that *play* campaigns with goals between $15,000 and $34,999 are more likely to fail. On the low end, *play* campaigns goals between $1 and $14,999 are mosre likely to be successful. On the high end, *play* campaign goals ranging from $35,000 and $44,999 are also more likely to be successful. In this case, depending on the goal size, we'd recommend Louise to launch campaigns based on those brackets. 
 
 #### - What are some limitations of this dataset?
 Some of the limitations of this dataset could be the external factors that could influence the success of these Kickstart campaigns. (For example economic changes, popular preference shift, etc). 
