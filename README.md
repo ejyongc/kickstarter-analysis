@@ -26,7 +26,7 @@ Once the pivot table data was populated, we inserted a line pivot chart in order
 
 Finally, we wanted to identify if we had any outliers on our dataset. We ran a statistical analaysis analysis to determine if there were any outliers on the amount outcomes per month. *Box and Wiskers* Chart below  
 
-![image](Total Outcomes per Month - Statistical Analysis - Box and Wisker.png) 
+![image](https://github.com/ejyongc/kickstarter-analysis/blob/main/Total%20Outcomes%20per%20Month%20-%20Statistical%20Analysis%20-%20Box%20and%20Wisker.png) 
 
 ### Analysis of Outcomes Based on Goals
 In the second analysis, we segmented the campaing goals into 12 different ranges. We arranged the goals ranges to go from *"less than $1,000" to Greater than $50,000. 
