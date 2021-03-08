@@ -12,7 +12,7 @@ The purpose of this report is to help Louise determine when would be the best ti
 
 ## Analysis and Challenges
 The analysis of the kickstarter data was divided into two separate sections: 
-1. [Theater Outcomes by Launch Date.](###Analysis-of-Outcomes-Based-on-Launch Date)
+1. [Theater Outcomes by Launch Date.](###Analysis-of-Outcomes-Based-on-Launch-Date)
 2. [Outcomes Based Goals.](###Analysis-of-Outcomes-Based-on-Goals)
     
 ### Analysis of Outcomes Based on Launch Date
