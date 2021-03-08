@@ -24,7 +24,7 @@ Once the pivot table data was populated, we inserted a line pivot chart in order
 
 ![image](https://github.com/ejyongc/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-Finally, we wanted to identify if we had any outliers on our dataset. We ran a statistical analaysis analysis to determine if there were any outliers on the amount outcomes per month. *Box and Wiskers* Chart below  
+Finally, we wanted to identify if we had any outliers on our dataset. We ran a statistical analaysis analysis to determine if there were any outliers on the amount outcomes per month. (*Box and Wiskers* Chart below)
 
 ![image](https://github.com/ejyongc/kickstarter-analysis/blob/main/Total%20Outcomes%20per%20Month%20-%20Statistical%20Analysis%20-%20Box%20and%20Wisker.png) 
 
